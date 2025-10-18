@@ -1,0 +1,59 @@
+Assets in Scope:
+
+Type
+https://github.com/...roXSwapVerifier.sol
+Smart Contract - ZeroXSwapVerifier	14 October 2025
+https://github.com/...utils/Whitelist.sol
+Smart Contract - Whitelist	14 October 2025
+https://github.com...missionedProxy.sol
+Smart Contract - PermissionedProxy	14 October 2025
+https://github.com...thPoolStrategy.sol
+Smart Contract - StargateEthPoolStrategy	14 October 2025
+https://github.com...llWETHStrategy.sol
+Smart Contract - MoonwellWETHStrategy	14 October 2025
+https://github.com...llUSDCStrategy.sol
+Smart Contract - MoonwellUSDCStrategy	14 October 2025
+https://github.com...OPUSDCStrategy.sol
+Smart Contract - AaveV3OPUSDCStrategy	14 October 2025
+https://github.com...utoUSDStrategy.sol
+Smart Contract - TokeAutoUSDStrategy	14 October 2025
+https://github.com...et/TokeAutoEth.sol
+Smart Contract - TokeAutoEth	14 October 2025
+https://github.com...et/PeapodsUSDC.sol
+Smart Contract - PeapodsUSDC	14 October 2025
+https://github.com...net/PeapodsETH.sol
+Smart Contract - PeapodsETH	14 October 2025
+https://github.co...hoYearnOGWETH.sol
+Smart Contract - MorphoYearnOGWETH	14 October 2025
+https://github.com...erWETHStrategy.sol
+Smart Contract - EulerWETHStrategy	14 October 2025
+https://github.com...erUSDCStrategy.sol
+Smart Contract - EulerUSDCStrategy	14 October 2025
+https://github.com...RBUSDCStrategy.sol
+Smart Contract - FluidARBUSDCStrategy	14 October 2025
+https://github.com...RBWETHStrategy.sol
+Smart Contract - EulerARBWETHStrategy	14 October 2025
+https://github.com...RBUSDCStrategy.sol
+Smart Contract - EulerARBUSDCStrategy	14 October 2025
+https://github.com...RBWETHStrategy.sol
+Smart Contract - AaveV3ARBWETHStrategy	14 October 2025
+https://github.com...RBUSDCStrategy.sol
+Smart Contract - AaveV3ARBUSDCStrategy	14 October 2025
+https://github.com...src/Transmuter.sol
+Smart Contract - Transmuter	14 October 2025
+https://github.com...rc/MYTStrategy.sol
+Smart Contract - MYTStrategy	14 October 2025
+https://github.com...mistV3Position.sol
+Smart Contract - AlchemistV3Position	14 October 2025
+https://github.com...rc/AlchemistV3.sol
+Smart Contract - AlchemistV3	14 October 2025
+https://github.com...mistTokenVault.sol
+Smart Contract - AlchemistTokenVault	14 October 2025
+https://github.com/...ategyClassifier.sol
+Smart Contract - AlchemistStrategyClassifier	14 October 2025
+https://github.com...hemistETHVault.sol
+Smart Contract - AlchemistETHVault	14 October 2025
+https://github.com...chemistCurator.sol
+Smart Contract - AlchemistCurator	14 October 2025
+https://github.com/...hemistAllocator.sol
+Smart Contract - AlchemistAllocator	14 October 2025
